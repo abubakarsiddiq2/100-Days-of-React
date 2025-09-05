@@ -25,7 +25,3 @@ A simple React app to fetch and download **high-quality YouTube thumbnails** in 
 - **Animate.css**  
 - **get-youtube-id** (extracts YouTube video ID)  
 - **React Toastify** (notifications)  
-
----
-
-## 📂 Project Structure  
